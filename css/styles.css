@@ -60,7 +60,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: #96c4ff;
   --bs-body-bg: #fff;
 }
 
@@ -11360,7 +11360,7 @@ p {
   color: #e6a756;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(122, 59, 184, 0.7);
   font-weight: 800;
 }
 #mainNav .navbar-nav .nav-item.active .nav-link {
